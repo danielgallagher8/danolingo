@@ -17,16 +17,26 @@ import json
 from random import randint
 import re
 
-def get_json():
-    with open('lang.json') as f:
-        data = json.load(f)
-    return data
+class App:
+    
+    def __init__(self):
+        pass
+    
+    def get_json(self):
+        with open('lang.json') as f:
+            data = json.load(f)
+        return data
+    
+    def random_verb(self):
+        verbs = self.get_json()["french_regular"]
+        random_num = randint(0, len(verbs))
+        rand_verb = verbs[random_num]
+        return rand_verb
+    
+    def conjugate(self):
+        verb = self.random_verb()
+    
+    def generate(self):
+        pass
+    
 
-def random_verb():
-    verbs = get_json()["french_regular"]
-    random_num = randint(0, len(verbs))
-    rand_verb = verbs[random_num]
-    return rand_verb
-
-def conjugate():
-    verb = random_verb()
