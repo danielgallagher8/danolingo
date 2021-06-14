@@ -151,7 +151,7 @@
                         },
                         {
                             "english":"to find, to regain, to meet up", "french":"retrouver", 
-                            "present":{"I find, I regain, I meet up";"", "you find, you regain, you meet up":"", "he/she/it finds, he/she/it regains, he/she/it, meets up":"", "we find, we regain, we meet up":"", "they find, they regain, they meet up":""}, 
+                            "present":{"I find, I regain, I meet up":"", "you find, you regain, you meet up":"", "he/she/it finds, he/she/it regains, he/she/it, meets up":"", "we find, we regain, we meet up":"", "they find, they regain, they meet up":""}, 
                             "past":{"I found, I have found": "", "you found, you have found": "", "he/she/it found, he/she/it has found": "", "we found, we have found": "", "they found, they have found": ""}, 
                             "future":{"I will find": "", "you will find": "", "he/she/it will find": "", "we will find": "", "they will find": ""}
                         },
