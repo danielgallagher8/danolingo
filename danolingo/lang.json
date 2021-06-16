@@ -50,19 +50,19 @@
                         {
                             "english":"to continue", "french":"continuer", 
                             "present":{"I continue":"je continue", "you continue":"tu continues, vous continuez", "he/she/it continues":"il/elle/on continue", "we continue":"nous continuons", "they continue":"ils/elles continuent"}, 
-                            "past":{"I continued, I have continued": "je continuai", "you continued, you have continued": "tu continuas, vous continuâtes", "he/she/it coninued, he/she/it has continued": "il/elle/on continua", "we continued, we have continued": "nous continuâmes", "they continued, they have continued": "ils/elles continuèrent"}, 
+                            "past":{"I continued, I have continued": "je continuai", "you continued, you have continued": "tu continuas, vous continuâtes", "he/she/it continued, he/she/it has continued": "il/elle/on continua", "we continued, we have continued": "nous continuâmes", "they continued, they have continued": "ils/elles continuèrent"}, 
                             "future":{"I will continue": "je continuerai", "you will continue": "tu continueras, vous continuerez", "he/she/it will continue": "il/elle/on continuera", "we will continue": "nous continuerons", "they will continue": "ils/elles continueront"}
                         },
                         {
                             "english":"to think", "french":"penser", 
                             "present":{"I think":"je pense", "you think":"tu penses, vous pensez", "he/she/it thinks":"il/elle/on pense", "we think":"nous pensons", "they think":"ils/elles pensent"}, 
                             "past":{"I thought, I have thought": "je pensai", "you thought, you have thought": "tu pensas, vous pensâtes", "he/she/it thought, he/she/it has thought": "il/elle/on pensa", "we thought, we have thought": "nous pensâmes", "they thought, they have thought": "ils/elles pensèrent"}, 
-                            "future":{"I will think": "", "you will think": "", "he/she/it will think": "", "we will think": "", "they will think": ""}
+                            "future":{"I will think": "je penserai", "you will think": "tu penseras, vous penserez", "he/she/it will think": "il/elle/on pensera", "we will think": "nous penserons", "they will think": "ils/elles penseront"}
                         }, 
                         {
-                            "english":"to begin, to start, to commence", 
-                            "present":"commencer", "conjugation":{"I begin, I start, I commence":"je commence", "you begin, you start, you commence":"tu commences, vous commencez", "he/she/it begins, he/she/it starts, he/she/it commences":"il/elle/on commence", "we begin, we start, we commence":"nous commençons", "they begin, they start, they commence":"ils/elles commencent"}, 
-                            "past":{"I began, I have begun": "", "you began, you have begun": "", "he/she/it began, he/she/it has begun": "", "we began, we have begun": "", "they began, they have begun": ""}, 
+                            "english":"to begin, to start, to commence", "french":"commencer", 
+                            "present":{"I begin, I start, I commence":"je commence", "you begin, you start, you commence":"tu commences, vous commencez", "he/she/it begins, he/she/it starts, he/she/it commences":"il/elle/on commence", "we begin, we start, we commence":"nous commençons", "they begin, they start, they commence":"ils/elles commencent"}, 
+                            "past":{"I began, I have begun": "je commençai", "you began, you have begun": "tu commenças, vous commençâtes", "he/she/it began, he/she/it has begun": "", "we began, we have begun": "", "they began, they have begun": ""}, 
                             "future":{"I will begin": "", "you will begin": "", "he/she/it will begin": "", "we will begin": "", "they will begin": ""}
                         }, 
                         {

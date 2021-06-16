@@ -17,26 +17,65 @@ import json
 from random import randint
 import re
 
-class App:
+class Random_French:
     
     def __init__(self):
-        pass
-    
+        self.json = self.get_json()
+            
     def get_json(self):
-        with open('lang.json') as f:
-            data = json.load(f)
+        with open('lang.json', 'rb') as f:
+            data = json.load(f, encoding="utf-8")
         return data
     
     def random_verb(self):
-        verbs = self.get_json()["french_regular"]
-        random_num = randint(0, len(verbs))
-        rand_verb = verbs[random_num]
-        return rand_verb
+        data = self.json['french_regular']
+        output = {}
+        while len(output) == 0:
+            rand_num = randint(0, len(data)-1)
+            verb = data[rand_num]
+            tense = ['present', 'past', 'future'][randint(0,2)]
+            rand_tense = verb[tense]
+            eng_list = []
+            #print(rand_tense)
+            for key, val in rand_tense.items():
+                eng_list.append(key)
+            if eng_list == []:
+                pass
+            else:
+                rand_eng = eng_list[randint(0, len(eng_list)-1)]
+                output[rand_eng] = rand_tense[rand_eng]
+            for key, val in output.items():
+                if val == '':
+                    output = {}
+        return output
     
-    def conjugate(self):
-        verb = self.random_verb()
-    
-    def generate(self):
-        pass
-    
+    def format_verb(self):
+        output = self.random_verb()
+        for key, val in output.items():
+            english = key.split(',')
+            french = val.split(',')
+        langs = [english, french]
+        question = langs[randint(0,1)]
+        if question == english:
+            correct_answer = french
+        else:
+            correct_answer = english
+        if len(question) == 1:
+            question = question[0]
+        else:
+            question = question[randint(0, len(question)-1)].lstrip()
+        correct_answer = [l.lstrip() for l in correct_answer]
+        return question, correct_answer
 
+
+s = Random_French()
+
+
+answer = ''
+while answer != "stop":
+    question, correct_answer = s.format_verb()
+    answer = input('{}: '.format(question))
+    if answer in correct_answer:
+        print('Correct')
+    else:
+        print('Incorrect, the correct answer is: {}'.format(correct_answer))
