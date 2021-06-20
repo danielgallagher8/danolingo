@@ -195,12 +195,12 @@
                             "english":"to change, to alter", "french":"changer", 
                             "present":{"I change, I alter": "je change", "you change, you alter": "tu changes, vous changez", "he/she/it changes, he/she/it alter": "il/elle/on change", "we change, we alter": "nous changeons", "they change, they alter": "ils/elles changent"}, 
                             "past":{"I changed, I have changed": "je changeai", "you changed, you have changed": "tu changeas, vous changeâtes", "he/she/it changed, he/she/it has changed": "il/elle/on changea", "we changed, we have changed": "nous changeâmes", "they changed, they have changed": "ils/elles changèrent"}, 
-                            "future":{"I will change": "je changerai", "you will change": "tu changeras, vous changerez", "he/she/it will change": "il/elle/on changera", "we will change": "nous changerons", "}
+                            "future":{"I will change": "je changerai", "you will change": "tu changeras, vous changerez", "he/she/it will change": "il/elle/on changera", "we will change": "nous changerons", "they will change": "ils/elles changeront"}
                         },
                         {
                             "english":"to work", "french":"travailler", 
-                            "present":{"I work": "je travaille", "you work": "tu travailles, vous travaillez"}, 
-                            "past":{}, 
+                            "present":{"I work": "je travaille", "you work": "tu travailles, vous travaillez", "he/she/it works": "il/elle/on travaille", "we work": "nous travaillons", "they work": "ils/elles travaillent"}, 
+                            "past":{"I worked, I have worked": "je travaillai", "you worked, you have worked": "tu travaillas, vous travaillâtes", "he/she/it worked, he/she/it has worked": "il/elle/on travailla", "we worked, we have worked": "nous travaillâmes", "they worked, they have worked": "ils/elles travaillèrent"}, 
                             "future":{}
                         },
                         {
