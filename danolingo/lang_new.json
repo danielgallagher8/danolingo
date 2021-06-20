@@ -1,4 +1,13 @@
 {
-    "french_regular_verbs": [],
-    "french_irregular_verbs": []
+    "french": {
+                "french_regular_verbs": ["to give", "to ask", "to find", "to pass", "to stay"],
+                "french_irregular_verbs": [],
+                "pronouns":"",
+                "swear_words":"",
+                "most_common_words":"",
+                "most_common_expressions":"",
+                "prepositions_connectors":"",
+                "question_words":""
+              }
+              
 }
