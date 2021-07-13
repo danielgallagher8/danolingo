@@ -201,132 +201,423 @@
                             "english":"to work", "french":"travailler", 
                             "present":{"I work": "je travaille", "you work": "tu travailles, vous travaillez", "he/she/it works": "il/elle/on travaille", "we work": "nous travaillons", "they work": "ils/elles travaillent"}, 
                             "past":{"I worked, I have worked": "je travaillai", "you worked, you have worked": "tu travaillas, vous travaillâtes", "he/she/it worked, he/she/it has worked": "il/elle/on travailla", "we worked, we have worked": "nous travaillâmes", "they worked, they have worked": "ils/elles travaillèrent"}, 
-                            "future":{}
+                            "future":{"I will work": "je travaillerai", "you will work": "tu travailleras, vous travaillerez", "he/she/it will work": "il/elle/on travaillera", "we will work": "nous travaillerons", "they will work": "ils/elles travailleront"}
                         },
                         {
                             "english":"to represent, to depict, to portray", "french":"représenter", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I represent, I depict, I portray": "je représente", "you represent, you depict, you portray": "tu représentes, vous représentez", "he/she/it represents, he/she/it depicts, he/she/it portrays": "il/elle/on représente", "we represent, we depict, we portray": "nous représentons", "they represent, they depict, they portray": "ils/elles représentent"}, 
+                            "past":{"I represented, I have represented": "je représentais", "you represented, you have represented": "tu représentais, vous représentiez", "he/she/it represented, he/she/it has represented": "il/elle/on représentait", "we represented, we have represented": "nous représentions", "they represented, they have represented": "ils/elles représentaient"}, 
+                            "future":{"I will represent": "je représenterai", "you will represent": "tu représenteras, vous représenterez", "he/she/it will represent": "il/elle/on représentera", "we will represent": "nous représenterons", "they will represent": "ils/elles représenteront"}
                         },
                         {
                             "english":"to secure, to assure, to insure", "french":"assurer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I assure": "", "you assure": "", "he/she/it assures": "", "we assure": "", "they assure": ""}, 
+                            "past":{"I assured": "", "you assured": "", "he/she/it assured": "", "we assured": "", "they assured": ""}, 
+                            "future":{"I will assure": "", "you will assure": "", "he/she/it will assure": "", "we will assure": "", "they will assure": ""}
                         },
                         {
                             "english":"to prevent, to stop", "french":"empécher", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I prevent": "", "you prevent": "", "he/she/it prevents": "", "we prevent": "", "they prevent": ""}, 
+                            "past":{"I prevented": "", "you prevented": "", "he/she/it prevented": "", "we prevented": "", "they prevented": ""}, 
+                            "future":{"I will prevent": "", "you will prevent": "", "he/she/it will prevent": "", "we will prevent": "", "they will prevent": ""}
                         },
                         {
                             "english":"to lead, to conduct", "french":"mener", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I lead": "", "you lead": "", "he/she/it leads": "", "we lead": "", "they lead": ""}, 
+                            "past":{"I lead": "", "you lead": "", "he/she/it lead": "", "we lead": "", "they lead": ""}, 
+                            "future":{"I will lead": "", "you will lead": "", "he/she/it will lead": "", "we will lead": "", "they will lead": ""}
                         },
                         {
                             "english":"to risk", "french":"risquer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I risk": "", "you risk": "", "he/she/it risks": "", "we risk": "", "they risk": ""}, 
+                            "past":{"I risked": "", "you risked": "", "he/she/it risked": "", "we risked": "", "they risked": ""}, 
+                            "future":{"I will risk": "", "you will risk": "", "he/she/it will risk": "", "we will risk": "", "they will risk": ""}
                         },
                         {
                             "english":"to concern, to affect", "french":"concerner", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I am concerned": "", "you are concerned": "", "he/she/it is concerned": "", "we are concerned": "", "they are concerned": ""}, 
+                            "past":{"I was concerned": "", "you were concerned": "", "he/she/it was concerned": "", "we were concerned": "", "they were concerned": ""}, 
+                            "future":{"I will be concerned": "", "you will be concerned": "", "he/she/it will be concerned": "", "we will be concerned": "", "they will be concerned": ""}
                         },
                         {
                             "english":"to meet, to encounter", "french":"rencontrer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I meet": "", "you meet": "", "he/she/it meets": "", "we meet": "", "they meet": ""}, 
+                            "past":{"I met": "", "you met": "", "he/she/it met": "", "we met": "", "they met": ""}, 
+                            "future":{"I will meet": "", "you will meet": "", "he/she/it will meet": "", "we will meet": "", "they will meet": ""}
                         },
                         {
                             "english":"to create, to build", "french":"créer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I create": "", "you create": "", "he/she/it creates": "", "we create": "", "they create": ""}, 
+                            "past":{"I created": "", "you created": "", "he/she/it created": "", "we created": "", "they created": ""}, 
+                            "future":{"I will create": "", "you will create": "", "he/she/it will create": "", "we will create": "", "they will create": ""}
                         },
                         {
                             "english":"to look for, to seek", "french":"chercher", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I look for": "", "you look for": "", "he/she/it looks for": "", "we look for": "", "they look for": ""}, 
+                            "past":{"I looked for": "", "you looked for": "", "he/she/it looked for": "", "we looked for": "", "they looked for": ""}, 
+                            "future":{"I will look for": "", "you will look for": "", "he/she/it will look for": "", "we will look for": "", "they will look for": ""}
                         },
                         {
                             "english":"to enter, to go in", "french":"entrer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I enter": "", "you enter": "", "he/she/it enters": "", "we enter": "", "they enter": ""}, 
+                            "past":{"I entered": "", "you entered": "", "he/she/it entered": "", "we entered": "", "they entered": ""}, 
+                            "future":{"I will enter": "", "you will enter": "", "he/she/it will enter": "", "we will enter": "", "they will enter": ""}
                         },
                         {
                             "english":"to suggest, to propose, to offer", "french":"proposer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I propose": "", "you propose": "", "he/she/it proposes": "", "we propose": "", "they propose": ""}, 
+                            "past":{"I proposed": "", "you proposed": "", "he/she/it proposed": "", "we proposed": "", "they proposed": ""}, 
+                            "future":{"I will propose": "", "you will propose": "", "he/she/it will propose": "", "we will propose": "", "they will propose": ""}
                         },
                         {
                             "english":"to bring, to cause", "french":"apporter", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I bring": "", "you bring": "", "he/she/it brings": "", "we bring": "", "they bring": ""}, 
+                            "past":{"I brought": "", "you brought": "", "he/she/it brought": "", "we brought": "", "they brought": ""}, 
+                            "future":{"I will bring": "", "you will bring": "", "he/she/it will bring": "", "we will bring": "", "they will bring": ""}
                         },
                         {
                             "english":"to use, to employ", "french":"utiliser", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I use": "", "you use": "", "he/she/it uses": "", "we use": "", "they use": ""}, 
+                            "past":{"I used": "", "you used": "", "he/she/it used": "", "we used": "", "they used": ""}, 
+                            "future":{"I will use": "", "you will use": "", "he/she/it will use": "", "you will use": "", "they will use": ""}
                         },
                         {
                             "english":"to tempt", "french":"tenter", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I tempt": "", "you tempt": "", "he/she/it tempts": "", "we tempt": "", "they tempt": ""}, 
+                            "past":{"I tempted": "", "you tepmted": "", "he/she/it tempted": "", "we tempted": "", "they tempted": ""}, 
+                            "future":{"I will tempt": "", "you will tempt": "", "he/she/it will tempt": "", "we will tempt": "", "they will tempt": ""}
                         },
                         {
                             "english":"to import, to matter", "french":"importer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I import": "", "you import": "", "he/she/it imports": "", "we import": "", "they import": ""}, 
+                            "past":{"I imported": "", "you imported": "", "he/she/it imported": "", "we imported": "", "they imported": ""}, 
+                            "future":{"I will import": "", "you will import": "", "he/she/it will import": "", "we will import": "", "they will import": ""}
                         },
                         {
                             "english":"to add", "french":"ajouter", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I add": "", "you add": "", "he/she/it adds": "", "we add": "", "they add": ""}, 
+                            "past":{"I added": "", "you added": "", "he/she/it added": "", "we added": "", "they added": ""}, 
+                            "future":{"I will add": "", "he will add": "", "he/she/it will add": "", "we will add": "", "they will add": ""}
                         }, 
                         {
                             "english":"to prepare (something), to make", "french":"préparer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I prepare": "", "you prepare": "", "he/she/it prepares": "", "we prepare": "", "they prepare": ""}, 
+                            "past":{"I prepared": "", "you prepared": "", "he/she/it prepared": "", "we prepared": "", "they prepared": ""}, 
+                            "future":{"I will prepare": "", "you will prepare": "", "he/she/it will prepare": "", "we will prepare": "", "they will prepare": ""}
                         },
                         {
                             "english":"to raise, to stand up, to pick up", "french":"relever", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I raise": "", "you raise": "", "he/she/it raises": "", "we raise": "", "they raise": ""}, 
+                            "past":{"I raised": "", "you raised": "", "he/she/it raised": "", "we raised": "", "they raised": ""}, 
+                            "future":{"I will raise": "", "you will raise": "", "he/she/it will raise": "", "we will raise": "", "they will raise": ""}
                         },
                         {
                             "english":"to pull, to draw (curtains, sword), to fire (gun), to print", "french":"tirer", 
-                            "present":{}, 
-                            "past":{}, 
-                            "future":{}
+                            "present":{"I pull": "", "you pull": "", "he/she/it pulls": "", "we pull": "", "they pull": ""}, 
+                            "past":{"I pulled": "", "you pulled": "", "he/she/it pulled": "", "we pulled": "", "they pulled": ""}, 
+                            "future":{"I will pull": "", "you will pull": "", "he/she/it will pull": "", "we will pull": "", "they will pull": ""}
                         }
                     ],
-    "french_irregular": [],
-    "pronouns": [],
-    "swear_words": [],
+    "french_irregular": [
+                            {
+                                "english": "to be", "french": "être",
+                                "present":{"I am": "", "you are": "", "he/she/it is": "", "we are": "", "they are": ""},
+                                "past":{"I was": "", "you were": "", "he/she/it was": "", "we were": "", "they were": ""},
+                                "future":{"I will be": "", "you will be": "", "he/she/it will be": "", "we will be": "", "they will be": ""}
+                            },
+                            {
+                                "english": "to have", "french": "avoir",
+                                "present": {"I have": "", "you have": "", "he/she/it has": "", "we have": "", "they have": ""},
+                                "past": {"I had": "", "you had": "", "he/she/it had": "", "we had": "", "they had": ""},
+                                "future": {"I will have": "", "you will have": "", "he/she/it will have": "", "we will have": "", "they will have": ""} 
+                            },
+                            {
+                                "english": "to be able (can)", "french": "pouvoir",
+                                "present": {"I am able": "", "you are able": "", "he/she/it is able": "", "we are able": "", "they are able": ""},
+                                "past": {"I was able": "", "you were able": "", "he/she/it was able": "", "we were able": "", "they were able": ""},
+                                "future": {"I will be able": "", "you will be able": "", "he/she/it will be able": "", "we will be able": "", "they will be able": ""}
+                            },
+                            {
+                                "english": "to do, to make", "french": "faire",
+                                "present": {"I do": "", "you do": "", "he/she/it does": "", "we do": "", "they do": ""},
+                                "past": {"I did": "", "you did": "", "he/she/it did": "", "we did": "", "they did": ""},
+                                "future": {"I will do": "", "you will do": "", "he/she/it will do": "", "we will do": "", "they will do": ""}
+                            },
+                            {
+                                "english": "to put, to place", "french": "mettre",
+                                "present": {"I put": "", "you put": "", "he/she/it put": "", "we put": "", "they put": ""},
+                                "past": {"I have put": "", "you have put": "", "he/she/it has put": "", "we have put": "", "they have put": ""},
+                                "future": {"I will put": "", "you will put": "", "he/she/it will put": "", "we will put": "", "they will put": ""}
+                            },
+                            {
+                                "english": "to say, to tell", "french": "dire",
+                                "present": {"I say": "", "you say": "", "he/she/it says": "", "we say": "", "they say": ""},
+                                "past": {"I said": "", "you said": "", "he/she/it said": "", "we said": "", "they said": ""},
+                                "future": {"I will say": "", "you will say": "", "he/she/it will say": "", "we will say": "", "they will say": ""}
+                            },
+                            {
+                                "english": "to have to, must, to owe", "french": "devoir",
+                                "present": {"I have to": "", "you have to": "", "he/she/it has to": "", "we have to": "", "they have to": ""},
+                                "past": {"I had to": "", "you had to": "", "he/she/it had to": "", "we had to": "", "they had to": ""},
+                                "future": {"I will have to": "", "you will have to": "", "he/she/it will have to": "", "we will have to": "", "they will have to": ""}
+                            },
+                            {
+                                "english": "to take, to catch, to capture", "french": "prendre",
+                                "present": {"I take": "", "you take": "", "he/she/it takes": "", "we take": "", "they take": ""},
+                                "past": {"I took": "", "you took": "", "he/she/it took": "", "we took": "", "they took": ""},
+                                "future": {"I will take": "", "you will take": "", "he/she/it will take": "", "we will take": "", "they will take": ""}
+                            },
+                            {
+                                "english": "to go", "french": "aller",
+                                "present": {"I go": "", "you go": "", "he/she/it goes": "", "we go": "", "they go": ""},
+                                "past": {"I went": "", "you went": "", "he/she/it went": "", "we went": "", "they went": ""}, 
+                                "future": {"I will go": "", "you will go": "", "he/she/it will go": "", "we will go": "", "they will go": ""}
+                            },
+                            {
+                                "english": "to want, to wish", "french": "vouloir",
+                                "present": {"I want": "", "you want": "", "he/she/it wants": "", "we want": "", "they want": ""},
+                                "past": {"I wanted": "", "you wanted": "", "he/she/it wanted": "", "we wanted": "", "they wanted": ""},
+                                "future": {"I will want": "", "you will want": "", "he/she/it will want": "", "we will want": "", "they will want": ""}
+                            },
+                            {
+                                "english": "to know", "french": "savoir",
+                                "present": {"I know": "", "you know": "", "he/she/it knows": "", "we know": "", "they know": ""},
+                                "past": {"I knew": "", "you knew": "", "he/she/it knew": "", "we knew": "", "they knew": ""},
+                                "future": {"I will know": "", "you will know": "", "he/she/it will know": "", "we will know": "", "they will know": ""}
+                            },
+                            {
+                                "english": "to have to", "french": "falloir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to see", "french": "voir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to return (something), to give back", "french": "rendre",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to come", "french": "venir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to understand, to include, to comprehend", "french": "comprendre",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to hold, to keep", "french": "tenir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to follow, to pay attention", "french": "suivre",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}, 
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to know, to be acquainted with", "french": "connaître",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}, 
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to believe in", "french": "croire", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}, 
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to hear, to understand", "french": "entendre",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to wait, to expect", "french": "attendre",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to put back (on), to replace, to deliver", "french": "remettre",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to call, to contact", "french": "appeler",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}, 
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to permit, to allow, to enable", "french": "permettre",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to become, to grow (into), to turn (into)", "french": "devenir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to leave, to depart, to proceed", "french": "partir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to serve", "french": "servir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to return, to come back", "french": "revenir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to receive, to welcome", "french": "recevoir",
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to answer, to reply", "french": "répondre", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to live", "french": "vivre", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to call back, to remind", "french": "rappeler", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to recognize, to acknowledge", "french": "reconnaître", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to lose, to waste", "french": "perdre", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to open (up)", "french": "ouvrir", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to read", "french": "lire", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to try, to attempt", "french": "essayer", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to go out, to leave, to exit, to come out", "french": "sortir", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to resume, to recover, to take back", "french": "reprendre", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to belong, to concern", "french": "appartenir", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to learn, to teach, to hear of", "french": "apprendre", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to obtain, to get", "french": "obtenir", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to reach, to attain, to achieve", "french": "atteindre", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to produce", "french": "produire", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to write", "french": "écrire", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                            {
+                                "english": "to defend, to stand up for, to forbid", "french": "défendre", 
+                                "present": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "past": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""},
+                                "future": {"I": "", "you": "", "he/she/it": "", "we": "", "they": ""}
+                            },
+                    ],
+    "pronouns": [{"english": "I", "french": "je"}, {"english": "you", "french": "tu/vous"}, {"english": "he", "french": "il"}, {"english": "she", "french": "elle"}, 
+                    {"english": "it", "french": "on"}, {"english": "we", "french": "nous"}, {"english": "they", "french": "ils/elles"}],
+    "swear_words": [{"english": "shit", "french": "merde"}, {"english": "son of a bitch", "french": "fils de pute"}, {"english": "go fuck yourself", "french": "va te faire foutre"},
+                    {"english": "whore", "french": "putain"}, {"english": "bastard", "french": "salaud"}, {"english": "bitch", "french": "salope"}, 
+                    {"english": "shut up", "french": "ta gueule"}, {"english": "burn in hell", "french": "brûle en l'enfer"}, {"english": "fuck", "french": "enculer"},
+                    {"english": "fuck you", "french": "enule"}],
     "most_common_words":[
                             {"english": "(det.) the; (pron.) him, her, it, them", "french": "le"},
                             {"english": "(det.) some, any; (prep.) of, from", "french": "de"},
                             {"english": "(det.) a, an; (adj., pron.) one", "french": "un"}
                         ],
-    "most_common_expressions": [],
+    "most_common_expressions": [{"english": "hello", "french": "bonjour"}, {"english": "thank you", "french": "merci"}, {"english": "please", "french": "s'il vous plaît"},
+                                {"english": "how are you", "french": "comment allez-vous"}, {"english": "my name is", "french": "je m'appelle"}],
     "prepositions_connectors": [],
-    "question_words": []
+    "question_words": [{"english": "who", "french": "qui"}, {"english": "what", "french": "que/qu'est-ce que"}, {"english": "when", "french": "quand"},
+                        {"english": "where", "french": "où"}, {"english": "why", "french": "pourquoi"}, {"english": "how", "french": "comment"},
+                        {"english": "how much/how many", "french": "combien"}, {"english": "what time", "french": "à quelle heure"},
+                        {"english": "how long", "french": "combien de temps"}]
 }
